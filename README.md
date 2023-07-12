@@ -91,36 +91,29 @@
   &nbsp;&nbsp;결제 방법 필터 구현(라디오 버튼(전체, 신용카드, 핸드폰, 카카오페이)) <br>
 ![8](https://github.com/jhj-sharon/art_stroke/assets/119272718/b2a7475f-477b-4b6c-83ea-225cfefe856d)
 
-  
-- 주문 관리 <br>
-  &nbsp;&nbsp;주문 목록 출력(주문 List DB 출력)<br>
-  &nbsp;&nbsp;주문 날짜 필터 구현(라디오 버튼(일주일, 1개월, 3개월))<br>
-  &nbsp;&nbsp;주문 내용 검색 구현(키워드 검색 정보 출력) <br> 
-  &nbsp;&nbsp;결제 방법 필터 구현(라디오 버튼(전체, 신용카드, 핸드폰, 카카오페이)) <br>
-![9](https://github.com/jhj-sharon/art_stroke/assets/119272718/3454cc8e-92c2-4a2b-80e3-789e60458bea)
-  
-    
+ 
 - 주문 취소 요청 <br>
   &nbsp;&nbsp;취소 요청 목록 출력(취소 요청 DB 출력)<br>
   &nbsp;&nbsp;주문자 클릭 시, 요청 회원에게 쪽지 전송 팝업(취소 여부 처리 후, 회원에게 쪽지 전송 / 해당 회원 쪽지함에 전송됨)<br>
   &nbsp;&nbsp;고객 취소 요청 승인 및 거절 기능(응답대기(D), 취소 승인(Y), 취소 거절(N)) <br> 
   &nbsp;&nbsp;취소사유 클릭 시 전체 내용 출력<br>
-![10](https://github.com/jhj-sharon/art_stroke/assets/119272718/55039730-30dc-4ff7-aee1-d12cf89c47e9)
+![9](https://github.com/jhj-sharon/art_stroke/assets/119272718/3454cc8e-92c2-4a2b-80e3-789e60458bea)
 
-  
+ 
 - 게시판 <br>
   &nbsp;&nbsp;게시판 목록 출력 및 게시글 관련 검색 구현(게시판 List DB 출력, 키워드 검색 정보 출력)<br>
   &nbsp;&nbsp;이미지 클릭 시, 모달 구현<br>
   &nbsp;&nbsp;제목 클릭 시, 해당 게시글 팝업 출력 <br> 
   &nbsp;&nbsp;게시글 삭제 구현(부적절한 게시글의 경우, 관리자의 권한으로 체크하여 삭제 구현(삭제여부 N → Y UPDATE))<br>
-![11](https://github.com/jhj-sharon/art_stroke/assets/119272718/975ec6a8-760a-4422-8e7a-05ca58e9a5f9)
+![10](https://github.com/jhj-sharon/art_stroke/assets/119272718/55039730-30dc-4ff7-aee1-d12cf89c47e9)
 
-  
+   
 - 채팅(웹소켓) <br>
   &nbsp;&nbsp;채팅방 목록 출력(채팅방 List DB 출력)<br>
   &nbsp;&nbsp;채팅 구현(Handler 작성 후, JS로 Data 얻어와, Server Message Select & Insert)<br>
   &nbsp;&nbsp;채팅방 삭제(실제 DELETE 아닌, N → Y로 UPDATE 후 input hidden) <br>  
-![12](https://github.com/jhj-sharon/art_stroke/assets/119272718/0979cfdb-0a9e-49e3-9cb8-db48c5d3bdc6)
+![11](https://github.com/jhj-sharon/art_stroke/assets/119272718/975ec6a8-760a-4422-8e7a-05ca58e9a5f9)
+
 
 
 ★ 트러블 슈팅 <br>
