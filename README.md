@@ -28,7 +28,7 @@
 
 ★ **관리자 페이지** <br>
    http://stroke.kro.kr/admin/adminLogin <br>
-   ID: admin@stroke.com
+   ID: admin@stroke.com <br>
    PW: qwer1234
    
 - 로그인 <br>
