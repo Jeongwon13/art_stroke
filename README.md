@@ -27,9 +27,9 @@
 - EC2 Linux Ubuntu 활용하여 도메인 있는 http 사이트 배포(mobaXterm, FileZilla 사용) <br>
 
 ★ **관리자 페이지** <br>
-   http://stroke.kro.kr/admin/adminLogin <br>
-   ID: admin@stroke.com <br>
-   PW: qwer1234
+ &nbsp;&nbsp;   http://stroke.kro.kr/admin/adminLogin <br>
+  &nbsp;&nbsp;  ID: admin@stroke.com <br>
+ &nbsp;&nbsp;   PW: qwer1234
    
 - 로그인 <br>
   &nbsp;&nbsp;관리자 페이지 이동 후, 권한이 있을 경우에만 로그인 가능 <br>
