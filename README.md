@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=art_&nbsp;stroke&fontSize=90" />
 
 ### 프로젝트 설명
-아트 편집샵
+**아트 편집샵**
 
 젊은 층을 중심으로 'Art'에 관심이 높아지는 요즘, 한국의 젊은 작가들에게
 정당한 저작권을 지급하고 작품을 굿즈로 만들어 작품을 소유할 수 있도록
