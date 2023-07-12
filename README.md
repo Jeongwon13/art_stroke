@@ -22,14 +22,14 @@
 
 ### 내가 맡은 역할
 
-★ **DB 구축 및 배포**
+★ **DB 구축 및 배포** <br>
 - AWS 사용하여 RDS 구축
-- EC2 Linux Ubuntu 활용하여 도메인 있는 http 사이트 배포
+- EC2 Linux Ubuntu 활용하여 도메인 있는 http 사이트 배포 <br>
 
 ★ **관리자 페이지** <br>
    
 - 로그인 <br>
-  &nbsp;&nbsp;관리자 페이지 이동 후, 권한이 있을 경우에만 로그인 가능 <br><br>
+  &nbsp;&nbsp;관리자 페이지 이동 후, 권한이 있을 경우에만 로그인 가능 <br>
     
 - 관리자 메인 페이지 <br>
   &nbsp;&nbsp;NAVER Analytics 사용하여 방문자 수 등 통계 페이지 생성<br>
