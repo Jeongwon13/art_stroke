@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=art_;stroke&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=art_stroke&fontSize=90" />
 
 ### 프로젝트 설명
 **아트 편집샵**
