@@ -26,6 +26,9 @@
 - AWS 사용하여 RDS 구축
 - EC2 Linux Ubuntu 활용하여 도메인 있는 http 사이트 배포(mobaXterm, FileZilla 사용) <br>
 
+![12](https://github.com/jhj-sharon/art_stroke/assets/119272718/0979cfdb-0a9e-49e3-9cb8-db48c5d3bdc6)
+![13](https://github.com/jhj-sharon/art_stroke/assets/119272718/37880128-ef51-46ea-b0dd-655e78d9845c)
+
 ★ **관리자 페이지** <br>
  &nbsp;&nbsp;   http://stroke.kro.kr/admin/adminLogin <br>
   &nbsp;&nbsp;  ID: admin@stroke.com <br>
@@ -54,12 +57,16 @@
   &nbsp;&nbsp;작가 승인(체크박스 체크 후 작가 승인 버튼 클릭 시, 0 → 1로 UPDATE /
    권한 1일 경우 활동 영역 폭이 넓어짐) <br>
   &nbsp;&nbsp;블랙리스트 강제 탈퇴(탈퇴여부 N → Y) <br>
+![4](https://github.com/jhj-sharon/art_stroke/assets/119272718/0373a7e8-d00d-4659-864d-9fa2909c7b87)
+
 
 - 회원 Q&A <br>
   &nbsp;&nbsp;Q&A 목록 출력 및 주문 내용 검색 구현(주문 List DB 출력, 키워드 검색 정보 출력)<br>
   &nbsp;&nbsp;제목 클릭 시, 문의 한 상품 페이지로 이동<br>
   &nbsp;&nbsp;내용 클릭 시, 답변 메세지 팝업(문의 회원(받는 이) 자동 등록 / 전송 시, 해당 회원 쪽지함에 출력) <br>
   &nbsp;&nbsp;답변 완료 출력(미완료(red) → 답변완료(green)) <br>
+![5](https://github.com/jhj-sharon/art_stroke/assets/119272718/9025c627-f1b5-404d-9ad3-489aec0cfe3b)
+
 
 - 신고 관리 <br>
   &nbsp;&nbsp;신고 내역 목록 및 검색 구현(신고 List DB 출력 및 신고 검색 정보 출력)<br>
@@ -67,41 +74,55 @@
   &nbsp;&nbsp;내용 클릭 시, 전체 내용 출력 <br>
   &nbsp;&nbsp;신고자 클릭 시, 메시지 팝업(신고자 자동 등록(받는 이) / 전송 시, 해당 회원 쪽지함에 출력) <br>
   &nbsp;&nbsp;신고 처리 여부(Null → Y로 바뀌면서 필터 적용 가능)<br>
+![6](https://github.com/jhj-sharon/art_stroke/assets/119272718/77a76b2c-4dae-4164-80cd-64a1d86bb719)
+
 
 - 리뷰 관리 <br>
   &nbsp;&nbsp;리뷰 목록 출력 및 리뷰 내용/별점 검색 구현(리뷰 List DB 출력, 키워드 검색 정보 출력)<br>
   &nbsp;&nbsp;이미지 클릭 시, 모달 구현 <br>
   &nbsp;&nbsp;리뷰 삭제 구현(체크박스 체크 후 삭제 클릭 시 리뷰 DELETE) <br> 
+![7](https://github.com/jhj-sharon/art_stroke/assets/119272718/0ab91d9b-586a-44d3-bc46-24cd3be1ac0f)
+
 
 - 주문 관리 <br>
   &nbsp;&nbsp;주문 목록 출력(주문 List DB 출력)<br>
   &nbsp;&nbsp;주문 날짜 필터 구현(라디오 버튼(일주일, 1개월, 3개월))<br>
   &nbsp;&nbsp;주문 내용 검색 구현(키워드 검색 정보 출력) <br> 
   &nbsp;&nbsp;결제 방법 필터 구현(라디오 버튼(전체, 신용카드, 핸드폰, 카카오페이)) <br>
+![8](https://github.com/jhj-sharon/art_stroke/assets/119272718/b2a7475f-477b-4b6c-83ea-225cfefe856d)
+
   
 - 주문 관리 <br>
   &nbsp;&nbsp;주문 목록 출력(주문 List DB 출력)<br>
   &nbsp;&nbsp;주문 날짜 필터 구현(라디오 버튼(일주일, 1개월, 3개월))<br>
   &nbsp;&nbsp;주문 내용 검색 구현(키워드 검색 정보 출력) <br> 
   &nbsp;&nbsp;결제 방법 필터 구현(라디오 버튼(전체, 신용카드, 핸드폰, 카카오페이)) <br>
+![9](https://github.com/jhj-sharon/art_stroke/assets/119272718/3454cc8e-92c2-4a2b-80e3-789e60458bea)
+  
     
 - 주문 취소 요청 <br>
   &nbsp;&nbsp;취소 요청 목록 출력(취소 요청 DB 출력)<br>
   &nbsp;&nbsp;주문자 클릭 시, 요청 회원에게 쪽지 전송 팝업(취소 여부 처리 후, 회원에게 쪽지 전송 / 해당 회원 쪽지함에 전송됨)<br>
   &nbsp;&nbsp;고객 취소 요청 승인 및 거절 기능(응답대기(D), 취소 승인(Y), 취소 거절(N)) <br> 
   &nbsp;&nbsp;취소사유 클릭 시 전체 내용 출력<br>
+![10](https://github.com/jhj-sharon/art_stroke/assets/119272718/55039730-30dc-4ff7-aee1-d12cf89c47e9)
+
   
 - 게시판 <br>
   &nbsp;&nbsp;게시판 목록 출력 및 게시글 관련 검색 구현(게시판 List DB 출력, 키워드 검색 정보 출력)<br>
   &nbsp;&nbsp;이미지 클릭 시, 모달 구현<br>
   &nbsp;&nbsp;제목 클릭 시, 해당 게시글 팝업 출력 <br> 
   &nbsp;&nbsp;게시글 삭제 구현(부적절한 게시글의 경우, 관리자의 권한으로 체크하여 삭제 구현(삭제여부 N → Y UPDATE))<br>
+![11](https://github.com/jhj-sharon/art_stroke/assets/119272718/975ec6a8-760a-4422-8e7a-05ca58e9a5f9)
+
   
 - 채팅(웹소켓) <br>
   &nbsp;&nbsp;채팅방 목록 출력(채팅방 List DB 출력)<br>
   &nbsp;&nbsp;채팅 구현(Handler 작성 후, JS로 Data 얻어와, Server Message Select & Insert)<br>
   &nbsp;&nbsp;채팅방 삭제(실제 DELETE 아닌, N → Y로 UPDATE 후 input hidden) <br>  
-  
+![12](https://github.com/jhj-sharon/art_stroke/assets/119272718/0979cfdb-0a9e-49e3-9cb8-db48c5d3bdc6)
+
+
 ★ 트러블 슈팅 <br>
   &nbsp;&nbsp;WebSocket을 이용한 채팅 구현 시, <br>
   &nbsp;&nbsp;메시지 팝업 창을 띄워 입력한 Input 메세지가 출력되는 것까지 구현하였으나 웹소켓 연결이 되지 않음 <br>
