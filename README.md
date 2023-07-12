@@ -37,7 +37,6 @@
 - 관리자 메인 페이지 <br>
   &nbsp;&nbsp;NAVER Analytics 사용하여 방문자 수 등 통계 페이지 생성<br>
   &nbsp;&nbsp;Best 게시판, Best 상품 화면에 출력하여 클릭 시 해당 페이지로 이동<br> 
-
 ![2](https://github.com/jhj-sharon/art_stroke/assets/119272718/dddef0eb-12b3-4437-91e9-dfd9a626a3fd)
 
   
@@ -47,6 +46,9 @@
   &nbsp;&nbsp;상품 등록(이미지 및 상품 정보 등록) <br>
   &nbsp;&nbsp;상품 삭제(체크박스 체크 후 상품 삭제) <br>
   &nbsp;&nbsp;썸네일 클릭 시 모달 출력 <br>
+![3](https://github.com/jhj-sharon/art_stroke/assets/119272718/dc0b575c-698f-4e79-a754-6ba4da65e9a6)
+
+  
 - 회원 관리 <br>
   &nbsp;&nbsp;회원 목록 및 검색 구현(회원 List DB, 회원 정보 검색 출력) <br>
   &nbsp;&nbsp;작가 승인(체크박스 체크 후 작가 승인 버튼 클릭 시, 0 → 1로 UPDATE /
