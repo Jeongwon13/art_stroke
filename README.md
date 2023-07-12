@@ -26,8 +26,8 @@
 - AWS 사용하여 RDS 구축
 - EC2 Linux Ubuntu 활용하여 도메인 있는 http 사이트 배포(mobaXterm, FileZilla 사용) <br>
 
-![12](https://github.com/jhj-sharon/art_stroke/assets/119272718/0979cfdb-0a9e-49e3-9cb8-db48c5d3bdc6)
 ![13](https://github.com/jhj-sharon/art_stroke/assets/119272718/37880128-ef51-46ea-b0dd-655e78d9845c)
+![12](https://github.com/jhj-sharon/art_stroke/assets/119272718/0979cfdb-0a9e-49e3-9cb8-db48c5d3bdc6) 
 
 ★ **관리자 페이지** <br>
  &nbsp;&nbsp;   http://stroke.kro.kr/admin/adminLogin <br>
