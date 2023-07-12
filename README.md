@@ -24,7 +24,7 @@
 ### 내가 맡은 역할
 ★ **DB 구축 및 배포** <br>
 - AWS 사용하여 RDS 구축
-- EC2 Linux Ubuntu 활용하여 도메인 있는 http 사이트 배포 <br>
+- EC2 Linux Ubuntu 활용하여 도메인 있는 http 사이트 배포(mobaXterm, FileZilla 사용) <br>
 
 ★ **관리자 페이지** <br>
    http://stroke.kro.kr/admin/adminLogin <br>
