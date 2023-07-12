@@ -36,8 +36,9 @@
     
 - 관리자 메인 페이지 <br>
   &nbsp;&nbsp;NAVER Analytics 사용하여 방문자 수 등 통계 페이지 생성<br>
-  &nbsp;&nbsp;Best 게시판, Best 상품 화면에 출력하여 클릭 시 해당 페이지로 이동<br>
-![1](https://github.com/jhj-sharon/art_stroke/assets/119272718/73baf117-9784-4a16-8c33-55f9477e0796)
+  &nbsp;&nbsp;Best 게시판, Best 상품 화면에 출력하여 클릭 시 해당 페이지로 이동<br> 
+
+![2](https://github.com/jhj-sharon/art_stroke/assets/119272718/dddef0eb-12b3-4437-91e9-dfd9a626a3fd)
 
   
 - 상품 관리 <br>
