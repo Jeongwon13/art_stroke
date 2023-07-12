@@ -122,6 +122,7 @@
   &nbsp;&nbsp;(AJAX를 통한 메시지 출력만 되어 다른 PC에서 새로고침 해야지만 메시지가 출력됨) <br><br>
   &nbsp;&nbsp;**SOLUTION:** 구글 검색하여 얻은 다른 WebSocket 연결 코드의 변수, 로직과<br>
   &nbsp;&nbsp;&nbsp;&nbsp;우리가 직접 개발한 코드 변수, 로직 등을 체크하여 하나씩 접목시킴<br>  
+  <br><br><br>
   
 
 
